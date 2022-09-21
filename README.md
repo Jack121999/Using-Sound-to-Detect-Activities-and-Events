@@ -1,1 +1,1 @@
-# Using-Sound-to-Detect-Activities-and-Events
+# Using Sound to Detect Activities and Events
